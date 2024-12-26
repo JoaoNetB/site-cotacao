@@ -16,7 +16,14 @@
             <p class="mt-4 text-base">1,000 USD = 1,000 BRL</p>
         </section>
         <section>
-
+                <h2>Período de tempo</h2>
+            <div>
+                <button>48h</button>
+                <button>1 semana</button>
+                <button>1 mês</button>
+                <button>6 meses</button>
+                <button>1 ano</button>
+            </div>
         </section>
     </div>
 @endsection
